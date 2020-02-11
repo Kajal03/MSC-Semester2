@@ -1,1 +1,19 @@
-aabcaacfghtojfkslfrhcjtkdosnwerthassiovnfofivnfjvnsznjszvjmjjvdcni
+
+Imagine a world where streaming a high-quality video on YouTube suffers no buffering, disrupted internet connection doesn’t refrain you from working and where governments can’t block sites on their whims or
+shut internet services down.
+
+## What are the issues with the current Web?
+
+1. Enormous Data ​ — ​ With the advent of the internet, humanity has collected nearly 130 exabytes of data. This data is exponentially growing with the growing number of internet
+users. This means that we will have more people streaming a significant amount of data on channels that are not scaling at the same pace. This would create congestion. Even addition of hardware would not be able to solve this problem at one point in time.
+
+2. Centralized ​ — ​ The current web is centralized. There is a single point of failure. This can lead to internet censorship by an organization. Such an organization would be able to take advantage of the monopoly granted to it by having control of this centralised resource. Services could be controlled or even shut down.
+
+Clearly, problems exist. A solution to these problems is the use of a brand new internet protocol, the Interplanetary File System.
+
+## IPFS
+
+Juan Benet in 2014 designed an Internet Protocol commonly known as IPFS or Interplanetary File System with the objective of removing duplications across the network, keeping data indefinitely and acquire addresses to the information stored on computers in the network. The HTTP is location-oriented as it fetches information by pointing to locations. But IPFS is resource-oriented i.e. it points to the resource and fetches information in parts from different machines over the network making it decentralized.
+
+Consider a situation where you are sitting in a classroom with 100 students and everyone is asked to stream the same 4k video on YouTube. The video will be retrieved from the closest YouTube server to each of the 100 machines. Everyone would end up requesting and receiving a large amount of data over long distances, congesting the network.
+
