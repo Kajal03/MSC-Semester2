@@ -1,3 +1,4 @@
+package heap_sort;
 import java.util.Scanner;
 
 public class heap
@@ -84,7 +85,7 @@ public class heap
 		for(int i = 0;i<size;i++)
 			System.out.print(arr[i] + " ");
 	}
-
+/*
 	public static void main(String args[])
 	{
 		int i;
@@ -107,5 +108,5 @@ public class heap
 		display(arr, size);
 		System.out.println("");
 	}
-
+*/
 }
