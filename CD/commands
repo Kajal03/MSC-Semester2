@@ -1,0 +1,10 @@
+command to install :    
+	
+	sudo apt-get install bison flex
+
+comman to run program :
+	
+	lex file.l
+	cc lex.yy.c -ll
+	./a.out
+
