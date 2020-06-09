@@ -8,3 +8,12 @@ comman to run program :
 	cc lex.yy.c -ll
 	./a.out
 
+
+
+command to run yacc as well as lex program combined
+
+	yacc -d prog.y
+	lex prog.l
+	cc y.tab.c -ll
+	./a.out
+

@@ -25,7 +25,7 @@ int main (int argc, char *argv[])
 		exit(1);
 	}
 	
-	fdold = open (argv[1], O_RDONLY); /* open source file read only */
+	fdold = open (argv[1], O_RDONLY); /* open source file read only 
 
 	if (fdold == -1)
 	{
@@ -45,4 +45,5 @@ int main (int argc, char *argv[])
 	copy(fdold, fdnew);
 	exit(0);
 }
+
 
